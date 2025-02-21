@@ -1,6 +1,6 @@
 # Butterfly Image Classification with TensorBoard
 
-![Butterfly Classification](path/to/image.jpg)
+![Butterfly Classification](butterfly.jpg)
 
 ## Project Overview
 This project focuses on training an image classification model to identify different species of butterflies using deep learning. The model leverages **MobileNetV2**, a lightweight convolutional neural network, with **transfer learning** to enhance accuracy and efficiency. TensorBoard was integrated to monitor key training metrics, enabling real-time performance analysis.
